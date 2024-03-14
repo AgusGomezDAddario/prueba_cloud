@@ -10,7 +10,7 @@ function App() {
       <Heading>Hello from AWS Amplify</Heading>
       <Image source={logo} />
       <Card>
-        <p>Click the button below to sign out</p>
+        <p>Salir</p>
         <Button onClick={signOut}>Sign Out</Button>
       </Card>
     </View>
